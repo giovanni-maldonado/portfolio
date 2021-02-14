@@ -47,7 +47,9 @@ a:hover {
     padding: 0px 10px 0px 10px;
 }
 #inicio {
+    border: dotted 3px hotpink;
     border-radius: 50%;
+    
 }
 
 #link {
